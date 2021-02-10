@@ -1,7 +1,6 @@
 # Mushroom Classification
 ---
-# C:/Users/catem/Desktop/mushrooms.png
-![plot](./Users/catem/Desktop/mushrooms.png)
+<>![mushrooms](C:\Users\catem\data-science-projects\capstones\mushroom_classifier.png)
 
 ## Introduction:
 ---
