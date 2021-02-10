@@ -1,7 +1,6 @@
 # Mushroom Classification
 ---
-<>![mushrooms](C:\Users\catem\data-science-projects\capstones\mushroom_classifier.png)
-
+[mushroom image](https://github.com/CateMerfeld/mushroom_classifier/blob/main/presentation_images/augmentation.png)
 ## Introduction:
 ---
 
