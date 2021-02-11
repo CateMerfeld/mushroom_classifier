@@ -11,8 +11,10 @@ Most applications for image or speech recognition run on neural networks. The av
 My objective was to create a mushroom image classifier light-weight enough to be operated on a smartphone, without the need for external servers. 
 
 ## Data
-I scraped
+The dataset for this project was comprised of mushroom images I scraped from four mycology websites and Google image searches. Before cleaning there were over 3,400 edible mushroom images and about 2,500 poisonous images. For more details on data collection, see the **scrapers** folder 
 
+To make sure my model was trained on useful data, I removed any image that was too small, had poor resolution or had a main forus that was not a mushroom. You can see some examples of removed images below. After cleaning there were about 3,100 edible images and 2,250 poisonous images.
+I checked each image for size, content and resolution and removed images that were too small
 ## Methodology
 
 ## Results
