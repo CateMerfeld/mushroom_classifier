@@ -19,3 +19,5 @@ To ensure my model was trained on useful data, I removed any image that was too 
 
 ## Methodology
 ---
+## Results
+---
