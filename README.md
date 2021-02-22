@@ -1,6 +1,6 @@
 # Mushroom Classification
 
-![](/presentation_images/mushrooms.png?raw=true "Example Images")
+![](/presentation_images/mushrooms_2.png?raw=true "Example Images")
 ## Introduction
 
 
